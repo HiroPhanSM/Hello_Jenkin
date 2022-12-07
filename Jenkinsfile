@@ -17,7 +17,7 @@ pipeline{
                     echo "========Build executed successfully!========"
                 }
                 failure{
-                    echo "========Build execution failed!========"
+                    echo "========Build execution failed========"
                 }
             }
         }
