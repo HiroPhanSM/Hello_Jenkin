@@ -10,7 +10,7 @@ pipeline{
     stages{
         stage("Build"){
             steps{
-                echo "========executing Build!========"
+                echo "========executing Build!========="
             }
             post{
                 success{
