@@ -4,7 +4,7 @@ pipeline{
     }
 
     environment {
-        TEST_ENVI = "-----hello jenkins!-----"
+        TEST_ENVI = "-----hello jenkins! I'm Hanh-----"
     }
 
     stages{
